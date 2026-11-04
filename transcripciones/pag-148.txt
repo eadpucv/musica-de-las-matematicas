@@ -1,0 +1,60 @@
+
+
+
+                 los numeros trascendentes π y e,... objetos contra los cua-
+                 les choca la matemática y que tienen, por decirlo así, una
+                 objetividad propia. No se originan en una teoría sino que
+                 están ahí, como accidentes extraños. Si se hace un análisis
+                 algo mecanicista de la matemática puede pensarse que el
+                 intento de asir estos objetos es uno de los puntos de partida
+                 de un trabajo matemático. La (ciertos) realidad de puntos ais-
+                 lados e inexplicables es el señuelo de la matemática de la época
+
+El algoritmo de Lagrange tiene que ver con la resolución de ecuaciones me-
+diante radicales
+-----
+La idea de estudiar las permutaciones de las raices de la ecuación es la
+que usó Galois para estudiar la resolución de las ecuaciones. Con él el
+problema quedó planteado y, en teoría, resuelto. Aunque el modo como
+Lagrange lo aplicó no resolvió el problema, pensar en la resolución en
+vez de la propuesta permitió a Evariste Galois estudiar el grupo de
+las permutaciones de las raices de la ecuación.
+Así, la teoría de Lagrange llega al umbral de la teoría de Galois.
+φ φ φ (φ φ)
+
+1 I pág enfrente
+"El triangulo de Pascal cual arma de visibilidad para acceder al &c de Newton"
+Isabel Margarita Reyes. 1988.
+"El "&c de Newton", uno de los "Veinte Algoritmos", que muestra como la in-
+ducción falla en el quinto paso, puede ser tomado como una advertencia ma-
+temática
+----
+Ahora bien, el texto del algoritmo se vincula con la tradición que según
+G. Iommi A., a proposito de un trabajo sobre Viérnot, no es una tradi-
+ción histórica. El dice: "No quisiera especular sobre la relación de un tra-
+bajo con un trabajo anterior. Lo mas real es considerar que para obtener
+una heredad es necesario inventar un contexto en el cual una situación
+anterior adquiera una situación nueva. Tener una orientación nueva de una
+cierta tradición. Esa misma orientación permite una novedad en el resul-
+tado. El cómo se hace suficiente no tiene una respuesta desde fuera. Lo
+suficiente se ve 'a posteriori' cuando la novedad esta hecha. Si nó, no
+tiene sentido.
+Pero este escrito no se vincula con la tradición sino que simplemente ad-
+vierte a la arquitectura. Y el texto del algoritmo advierte a este estudio. Luego
+se da una relación relación entre algoritmo y este estudio. La relación de la
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+148

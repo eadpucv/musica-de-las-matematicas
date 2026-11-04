@@ -1,0 +1,60 @@
+
+
+
+     Explicitación técnica de la clasificación de las relaciones
+
+
+
+
+
+     35              36             37
+
+
+ 35: en una sola extensión o espacio(39) 36 en seis espacios. 37. Ellos distanciados.
+ Tenemos que la explicitación se dá en espacios despegados. Dicha forma significa una
+ curia de lo mayor
+
+ Prosiguiendo:
+
+     “Teoría del refinamiento. Explicitación técnica
+
+      1. R.S definidas en A × B
+         R ≤ S: (∀x ∈ A)(∀y ∈ B)(xRy ⇒ xSy)
+         relacionar las relaciones
+
+     “aplicación a objetos
+
+      relacionar  (A, ≤) ordenado
+      las         (A, *) operación
+      relaciones  (A, ∼) equivalencia
+
+
+     “Elección del tema del estudio
+
+       ℕ ↪ ℤ ↪ ℚ ↪ ℝ ↪ ℂ ↪ ℍ
+
+       los sistemas numéricos
+
+
+      una teoría
+      del
+      refinamiento justo = dosificación de los sistemas numéricos
+                       justo = clausurado. Con sucesor
+
+ Digamos, entonces que clausurado equivale a concluso. Se alcanza por tanto
+ el punto clave del plan de estudio del Curso. Recapitulemos:
+
+  conclusividad
+          dimensión - dimensional 1 2 3 4 5 6 7 8 9 10
+                      masa 11 12 13 14 15
+                             observación - cantidad - calculo - medida 16 17 18 19
+                                          interno externo garantes 20 21 22 23 24 25
+                                                    emergencia aproximador
+                                                              índice
+                                                                        mero
+ Voluntad de conclusividad                                              26 27 28 29 30 31
+                             que es calculo de la observación
+                                                           en índices de lo mero
+ Vemos, que podemos recoger lo que hemos recibido diversas acentuaciones(40), sin embargo
+ un punto no puede faltar: el calce: 14,15
+6ª22

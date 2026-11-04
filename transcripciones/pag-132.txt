@@ -1,0 +1,60 @@
+
+
+ alumnos     2                                                            2            3 alumnos
+ del Taller →  a
+                                                                                 a
+1                 5         3                               2
+
+ alumnos      b
+                                                                                 b
+
+                4                                                         4            5
+   Registro                   Paradoja
+                                                              Medida                  Corte
+                 Estructura
+3                                                           4
+
+                 Totalidad
+ Lenguaje                  continuidad
+                                                              Lenguaje                Orden
+
+  croquis                       no equivalencia               Equivalen-
+  preguntas       alumnos       o                             cia al ojo
+  actividades                   sin equivalencia                        Acto     Panel
+5        amanecer                                           6
+                                                              Visión de la    sucesión momentos
+  Lenguaje        panel         sucesión                      luz en el cor-       estructura
+  gráfico                       de momentos                   te: la señal        radical
+
+ Orientación          Tamaño                                  Orientación       Conformación
+   (2)                (3)                                        (2)                (4)
+
+7                                                            8
+
+    (5)              (4)                                        (5)               (3)
+  Dimensión     Conformación                                  Dimensión       Tamaño
+
+
+ · Ubicación                     Orden en                    Referencias      ejes
+  en el espacio  instancias         el espacio               del cuerpo      ordenadores
+                                 Habitación en la            en la           de la
+ 9   Posición    colocación      Arquitectura                extensión (2)   extensión (4)
+                                     Proporción              10   Travesía   límites
+  en el espacio                      en el espacio                           definidos
+                                                                             constructibles
+                                                              Lectura        en la
+                                                              de la          extensión (3)
+                                                              extensión (5)
+                                                                              campo  Obra  medido
+  Medida                 continuidad
+   acarreo                                                    Medida              Distancia
+                                                                                relación campo
+11              instancias                                   12
+                Obra                                                 Lenguaje
+                colocación                                                               continuidad
+                                                                                  campo
+  Lenguaje                Paradoja
+II Objetos primitivos     h i  h' × i' h" ☒ i"
+ axiomas: los mismos      j R  j'   R' j"   R"               Paradigma
+ términos distintos
+132

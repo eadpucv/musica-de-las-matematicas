@@ -1,0 +1,60 @@
+
+
+
+
+ Topología          Orden                       Estructura Algebraica
+
+ lim límite         = igualdad                  +, Σ, ∫ suma, sumatoria, integral
+
+                    < menor                     -       resta
+
+                    ≤ menor o igual             •, ×    producto
+
+                    > mayor                     :, ÷    división
+
+                    ≥ mayor o igual             !       factorial
+
+                    ≶ mayor o menor             ( )ⁿ    potencia
+
+                                                ⁿ√      raíz
+
+                                                log     logaritmo
+
+                                                d/dx    derivada
+
+
+
+
+            numeros-sistema numéricos
+
+
+
+ 53/54
+                                    logica       topologia
+                                    conjuntos    orden
+                                    abreviaturas estructura algebraica. Operaciones
+
+
+ Volviendo a lo dicho sobre el deletrear la simbología, se tiene que el espectro me-
+ lancolico desde la expresión e intensión, es detenido por la finura:
+
+
+
+
+ Retrocedamos a la nota <39>, a la teoría del refinamiento, a las relaciones entre
+ relaciones.
+              a = b (mod 8)
+              a = b (mod 4) ⇔
+
+ De donde, retrocediendo al plan de estudios, nota <1> y a la nota <82> de la elec-
+ ción, nos decimos que:
+
+
+                           simbolo del espectro.
+
+
+ No se estudiará, se suspenderá toda materia de extensión todo objeto matemá-
+ tico que no pueda vislumbrar lo que sea su finura. Tal afirmación desde el
+ oficio de la arquitectura y los diseños. Ver nota <16>
+
+                                                                                      55

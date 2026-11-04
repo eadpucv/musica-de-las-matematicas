@@ -1,0 +1,60 @@
+
+
+ Una nota preliminar               matemática formal
+ [es un comienzo                   aspira a ser (explícita
+ de recursión...]                               no tener supuestos)
+
+
+                                    Teoría = sistema formal
+                                    Teoría es más que sistema formal
+                                                                        Teoria = X
+                                                                        sis.for = X
+
+
+  Explícita: objetos: axm [axiomas]
+
+
+                   reglas de ded [deducción] manipula simbolos    Juego estricto
+
+
+                            Teoremas
+
+
+  comentario: Gödel ¿es estricto? no es estricto. Completitud
+
+  en                                                          no. [Teorema]
+  matemáticas       historico ¿qué?
+  tiene un                                  de que se trata. Consistencia.
+  sentido                                   no es saber lo que se
+  profundo                                  incorpora. No saberlo. Historia de los
+                                            numeros y de contradicciones o parado-
+                                            jas inconclusas. Al hacer un edificio
+                                            cuya estructura y transparente aun cuan-
+                                            do no se sepa de lo que se trata
+                     filosofico ¿crea o descubre?
+
+                                           en los días de semana manipula sim-
+                                           bolos; el domingo contempla su tra-
+                                           bajo. Es de Bourbaki
+                                           ¿sabe como es algo:?
+                                           manipulación crea algo nuevo, el domin-
+                                           go descubre de que se trata. Porque las
+                                           matemáticas son existentes: Platon
+
+                  Godel
+
+
+            historico   filosofico
+                                            una        doble línea
+                                            línea      prevenir sublegos
+                                                       hasta el extremo
+                                                       cuando se conoce y
+                                                       no cuando se empieza
+                                                       a conocer
+
+                                                          ⇄ arquitectura
+                                                               teología
+
+
+           ver pag     matemáticas ↑ arquitectura   si  no
+                          tercer lenguaje             dos lenguajes                    71

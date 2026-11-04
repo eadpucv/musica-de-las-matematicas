@@ -1,0 +1,60 @@
+
+                                                         Figuras.
+· Música de las                                          1. Correspondencia
+matemáticas                                              2. Figura rígida
+ver pag                                                  3. Postulados para: conformación figura
+                                                            Conceptos generales
+                                                         4 palabras figura: elementos del acto
+                                                         5 Ejes estructuradores:
+                      I III V VII IX                            elementos fundamentales del acto
+                        II IV VI VIII X                         instancia        "         "   "
+                                                         6 Estructura radical: sucesión momentos
+                                                         7 Incorporar conceptos
+                                                                      al sistema estructural
+Figuras: 1                                               8 Traslado de conceptos
+              2                                          9 Concretizar
+              3                                             Definir conceptos en el espacio
+              4                                          10 Concepto en relación vértice
+              5                                          11 Recorrer al punto de origen
+              6                                          12 Cerrado de la figura
+              7                                                    otra disposición a la mirada
+              8                                              Reglas de Formación
+              9                                           1. los términos en configuración · ·
+              10                                          2 sea R. relación espacial      · ·
+              11                                                      por transitividad
+              12                                          3 seas, s' dos funciones proposicionales
+                                                          4 s ∩ s' = α
+Versión 1                                                 5 .... s ∩ s' = α' = 90°
+Presentación del Sistema Arquitectónico                       figura cerrada t ☒ u
+como Sistema Formal Matemático I II.                         Reglas de Formación
+                                                          1 sean x y relaciones espaciales
+Es un libre estudio de un alumno                          2 x ∩ y = β = 90°
+en un período que abría posibilidades                     3 figura cerrada: y ⊞ z
+pero que aún no recogía.                                  4. si h'' ☒ i'' v ⊞ w ⇒ w ☒ L
+                                                             figura cerrada completa    R i
+Es un estudio que elabora la relación:                    5 sean (xy) agrega (TV)
+· acto 1 figuras 2 formalización 3.                       6 X ∩ Y ∩ T ∩ V = 0
+ espacio   operantes   matemática                            Teoremas
+                                                          1 α ∩ β ∪ relación cualquiera
+· recogiendo al Taller, los actos de la Es-               2 v ⊞ w    w ☒ L
+ cuela, las Travesías, las Obras                            y   z    R   i
+· llevandolo a términos que se configu-                   3 α ∩ β ∩ 0
+ ran de un modo cuadrado                                     Teorema: 1 una relación que cumple
+· concluyendo en una figura cuadrada                            (m n, t ☒ u)
+ cerrada y completa                                              o p
+ que desvela 1,2,3.                                       2 relación y que cumple
+                                                            y (α, α')
+· Desvelamiento: hay que pretenderlo co-
+ mo el reunir en un momento dado:
+               1,2,3.
+ Ello permite hoy examinar:
+ ·· consistencias - inconsistencias
+ ·· condiciones de consistencia
+ ·· vigilancia de la inconsistencia
+
+
+
+
+
+
+                                                                                                            131

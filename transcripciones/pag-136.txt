@@ -1,0 +1,60 @@
+
+                                                                                                 "Colofon al
+                                                                                                  Colofon
+8                      9                                     10                                  "El trabajo es
+                                                                                                  realizar un
+                                                                                                  laberinto
+                                                                                                  con alguno
+                                                                                                  de estos restos
+                           1     2     3     4                                                    rf,       11
+                                                                                                  rs,       12
+                                                                                                  ra,       13
+   Chartres                                                                                       Con una ca-
+                                                                                                  beza de arqui-
+11                                12                           13                                 tectos y diseña-
+                                                                                                  dores que se
+                                                                                                  complace en
+                                                                                                  esto...
+                                                                                                  <sigue pg.
+ umbral novísimo rf                 umb. transitoria rs           umb. alejado ra
+
+I               II
+        1
+         2                            A                               B
+                                           c f             D
+
+                                                                       M           s
+ 1.2
+ 1 + 1 = 2       a Europa             Colón             Balboa                   Solís
+ 1 · 2 = 2       b Asia                                 Magallanes
+ 3⁰·2¹ = 2       c. Columnas
+ 2⁰·2¹ = 2          de Hercules
+    2¹
+III                                                          IV k
+ N = n·m+r ⇔ N: m ⇔ N ≡ r (m)                                 N ≡ 6(25) ≡ 5(7) ≡ 1(4) ≡ 2(3)
+               r                                              N=n₁·25+6=n₂·7+5=n₃·4+1=n₄·3+2
+ 1732:0 =       1732:1 = 1732                                 N:25=n₁ N:7=n₂ N:4=n₃ N:3=n₄
+ 1432/ r = N        0/ r = 0                                  6/       5/     1/     2/
+       m = 0           m = N
+ n = 0, x R y ⇔ x-y ∈ {φ}    n=1, x R y ⇔ x-y ∈ Z
+               ⇔ x-y=0                 g/ una
+               ⇔ x=y                      sola
+                  ∅                       clase
+                       x R y ⇔ x-y = n°
+                             ⇔ x-y = n·k
+                             ⇔ x = nk+y
+
+IV I
+             7                 12          21                    10 11       33
+             4                   8     13 17                      3 4  19 26                   24 25
+             1                     4    5 9                    9 2  5 12                   15
+            3 2                   3    2                        8 1 6                      14
+          6   5                7       6                     15 7 13                       13
+         9     8             11       10                          14                       12
+                     11                                                                    11
+                       14                                                                     10 9 8 7 6
+                         17                                                                            31
+                           20                                                                          56
+                                                                                                       81
+                                                                                                       106 131
+136                                                                                                    156 181

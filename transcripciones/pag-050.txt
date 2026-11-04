@@ -1,0 +1,60 @@
+
+1 plan
+2 punto clave
+3 termino                              mayor trasmitir menor            profesor
+4 concluso                                                                punto clave
+5 profesor-alumno                        8 │6│ 8                            alumno
+6 trasmitir                                                           5.8 │2│6│8.5
+7 dimensión
+8 mayor-menor
+9 relaciones-modos             A
+10 concentrico                                                    B
+11 excentrico
+12 conclusividad menor
+13 lenguaje multívoco
+14 lenguaje unívoco
+15 dimensional                                                       28              28
+16 voluntad                     interno       externo            origen          generación
+17 masa                             27             27              27                27
+18 autotrasmisión
+19 calce                                 calce                            12
+20 holgado                                19                            concluso
+21 acto                                                                  menor
+22 observación
+23 cantidad                                                          7 dimensión-dimensional 15
+24 calculo
+25 medida                                espectro
+26 encrucijada                             42
+27 interno-externo
+28 origen-generación
+29 responsabilidad
+30 garante                       lenguaje unívoco                     garante
+31 emergencia                         voluntad                          emergencia
+32 aproximador                              lenguaje multívoco               responsabilidad
+33 mero
+34 índice                          14 │16│ 13                        30 │31│ 29
+35 presente
+36 AN
+37 sucesor
+38 explicitación
+39 espacio                    C                                D
+40 acentuación
+41 deleite
+42 espectro
+43 ocultamiento
+44 jerarquía                excentrico   concentrico         ocultamiento comunicación
+45 computación                   11             10                  43          48
+46 comunicación
+                                        masa                              32
+                                         17                          aproximador
+
+                                33 mero     índice 34            23              25
+                                                                  cantidad calculo medida
+                                     explicitación                       24
+                                         38
+
+      I.
+      introducción
+
+
+50

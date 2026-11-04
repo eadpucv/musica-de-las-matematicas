@@ -1,0 +1,60 @@
+
+
+
+ Música de las
+ Matemáticas
+ ver pg
+                                                      F.3
+                                                      Observación:
+                     I  III V VII IX                  1 G(F) contiene al menos la identidad
+                      II IV VI VIII X                 2 G(F) no caracteriza unívocamente
+                                                                la figura F
+el índice en                                                    Así, por ejemplo las figuras
+simultaneidad →
+                                                                  ·     ⊙    ◎
+                1  1
+                                                                tienen el mismo grupo de
+                                                                isometría
+ C  1  2  2
+                                                      F.3: Se toma la última afirma-
+          F  3                                             ción para volver hasta la
+                                                           primera de manera de ir
+ p̄ p̄ p̄   C   3                                          trazando el modo como nos
+              F                              F.3           concierne; es un esfuerzo
+Algebra Lineal y Geometría 1 Extensiones de R              para lograr una proximi-
+L. Aburto R Johnson       2 Geometría Lineal               dad desde el propio presen-
+2.000                    3 Estructuras                     te.   p̄ p̄ p̄
+
+
+
+
+
+
+
+Música de las
+Matemáticas
+ver pag
+                                                      F.4
+                                                      "Esto implica desde el punto de vista for-
+                          I III V VII IX               mal, la permanente búsqueda de la nor-
+                           II IV VI VIII X             malización de las unidades de medidas,
+el índice en                                           de los controles de calidad, de los nombres
+Simultaneidad                                          y nomenclatura, etc., etc.,
+                                                       Así mismo, explica la difusión creciente
+                                                       de las características de los materiales y
+ p̄ p̄ p̄                                              de los elementos o medios impresos a
+                                                       traves de sistemas de catálogos"
+ F C 1 C F
+
+     4  2
+
+          3   p̄ p̄ p̄
+
+
+                  4
+                                                 F.4
+Construcción formal: 1 Planteamiento general
+Fabio Cruz          2 La medida en el mundo material
+1982                3 Materialización de la Imagen Formal
+                    4 Acerca del Mensaje Constructivo
+130

@@ -1,0 +1,60 @@
+
+
+  Pero cabe advertirse que el mero es el presente(35). Es forma del presente. En presentar
+  su presencia. Recordar la profesora alemana AN(36) que hace la distinción una obra
+  de arte, un cuadro. Le es correspondiente determinado yo. El. Por su presencia que se nos pre-
+  senta. Ciertamente es una dimensión de lo mayor. Por tanto lo mero en cuanto a
+  las matemáticas podría alcanzar una dirección hacia lo mayor. Esa dirección vendría
+  a equivaler - en un sentido genérico, antedicho - a un sucesor. Y dirección hacia ven-
+  dría hacia el cuidado sucesor(37) de la observación
+
+         16 ◇           17 ◇         18 ◇       19 ◇
+
+         observación    cantidad     calculo    medida
+
+  Todo lo cual representa o significa una voluntad de conclusividad arquitectónica
+
+
+       9 □⋈◯
+
+
+  La que ha de reforzar su voluntad para haberselas con:
+
+
+   “Explicitación(38) técnica de la clasificación de las relaciones
+
+
+         1: r: (∀x ∈ A) (xRx)
+         2: s: (∀x ∈ A) (∀y ∈ A)(xRy ⇒ yRx)
+         3: a: (∀x ∈ A) (∀y ∈ A)(xRy ∧ yRx ⇒ x = y)
+         4: t: (∀x ∈ A) (∀y ∈ A) (∀z ∈ A) (xRy ∧ yRz ⇒ xRz)
+         5 e: r ∧ s ∧ t
+         6 o: r ∧ a ∧ t
+
+
+  La explicitación ignora y bien puede seguir ignorando y aun encontrar como un
+  desproposito, extravigante, todo cuanto se ha venido diciendo
+
+
+  31 □⋈◯
+
+  31. Se dibuja en línea de puntos la arquitectura diseños y en grueso las matemáticas.
+  la línea de puntos significa que:
+
+
+       21 ◇
+
+          externo: generación, generadores, generatrices.
+
+  Entonces, la generación por generadores constructores generatrices cuidan, la curia-
+  que no se produzca un vacío o no generación tanto dentro del campo generado
+  o por generar. Y en ello se da un calce con el obrar arquitectónico - diseños
+
+
+  14 □⋈◯
+
+  Pero se trata de un mero calce.
+  El mero calce - dibujado. Prosigue siendo mero; pero en razón del dibujo puede a-
+  vanzar
+
+5ª 20

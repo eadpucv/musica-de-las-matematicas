@@ -1,0 +1,60 @@
+
+
+
+  E) (long/trans)(ant·suc/susp·sust)  F) max+a     +1 suc
+                                      med+a-b             = [max+a]       max     min
+                                      min-b                  [med+a-b] = [ ][ ][ ]
+                                   +1 ant                    [min-b]        med
+
+  G) (long/trans)(ant·suc/susp·sust)
+
+                                       ; voca-i = (long/trans)(ant·suc/susp·sust)
+       ─────────────────────────
+     [max+a][med+a-b][min-b]                           ──────────────────────
+                                                      [max+a][med+a-b][min-b]
+
+ H)
+    Algoritmo. Presencia de este: cual operación que tiende a un proceder en determi-
+    nados pasos que llegan al resultado, la resolución. El algoritmo es así una
+    longitudinal encaminada.
+
+
+        a ○ ○ ○      b ◇ ◇ ◇    a = opera en transformación maxima
+
+        operador         op.     b =                        minima
+               algoritmo        alg.
+   el operador es semejante a la operación que opera su resolución en b; enton-
+   ces es un algoritmo eludido o aun descendente; a: es ascendente.
+
+
+    ((long/trans)(ant·suc/susp·sust))  ((long/trans)(ant·suc/susp·sust))
+
+    ───────────────────────────   ──────────────────────────
+    [max+a][med+a-b][min-b]        [max+a][med+a-b][min-b]
+
+ I)
+
+      exacto             exacto
+      rebasa   mayor que tanteo   menor que
+                 la resolución      la resolución
+
+ J)                      a
+                      b                construcción a        a b
+                                       del algoritmo
+         bordes a = b.                 su lectura por
+                                       sucesor: b     un borde de menos en b
+
+                          A) B) C) D) E) F) G) H) I) J)
+
+  un solo enlace
+  reversibilidad           A
+        mínima
+
+  Todos los enlaces                                          J • la velocidad
+  reversibilidad                                • la velocidad
+        maxima                                  la velocidad algoritmica: un reque-
+                                                rimiento de la epoca, ya en la com-
+  K)                                            petitividad de velocidades.
+  El requerimiento de velocidad tiende a acortar lo que en matemáticas pue-
+  de quedar “pendiente”. De acuerdo, con dicho quedar pendiente - por
+64

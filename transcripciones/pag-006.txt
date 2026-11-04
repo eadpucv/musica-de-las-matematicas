@@ -1,0 +1,60 @@
+
+
+
+
+  Régimen hoy ya del todo lanzado: Internet. Anticipar, entonces, los motivos
+  que tendrán todos y cada cual para buscar este “lanzamiento” nuestro. Los
+  títulos han de ser, por tanto, receptores de los buscadores.
+
+
+
+
+   Ediciones
+
+                  1                    2                     3                    4
+
+
+       curso                Música                 Teoría               Visión
+       de                   de las                 del                  arquitectónica
+       Matemáticas          Matemáticas            justo                del
+                                                   refinamiento         número φ
+                                                   Matemático           Visión
+                                                                        de los
+                                                                        Diseños
+
+
+
+           U.C.V.                U.C.V.               U.C.V.                U.C.V.
+
+
+                  Pantalla            1 ⇄ 2 ⇄ 3 ⇄ 4           cabezal
+                  Computador.
+
+
+
+
+
+
+
+ Cada título 1/2/3/4.                                         1
+ se hace presente con un a-                                   1 2        (1,2)
+ compañante, un alterno,                                      1 2 3      (1,2,3)
+ un ajeno, propio del que-                                    1 2 3 4    (1,2,3,4)
+ hacer computacional mis-                                       2 3 4       (2,3,4)
+ mo, que hace de lazarillo.                                       3 4       (3,4)
+ Ha de ser, puede serlo, para                                       4
+ aunar sensación y pensa-                                       2
+ miento.                                                          3
+                                                              1 2 4 3
+                                                              1 4 2 3
+                                                              1 4 3 2
+                                                              4 1 2 3
+                                                              4 2 1 3
+                                                              4 2 3 1
+                                                              4 2 3 1
+                                                                2 1 3
+                                                                  2 3        (2,...
+                                                                  3 2         (2,3)
+                                                                . . . .       (3,2)
+
+6

@@ -1,0 +1,60 @@
+
+
+ Ahora podemos intentar aproximarnos un tanto más a los "Veinte Algorit-
+ mos. Por ejemplo al de Lagrange. Veamos:
+ "Antes de entrar en el algoritmo propiamente tal es necesario fijar algunos
+ puntos.
+ "Suele ocurrir que algun concepto matemático, por ejemplo, el número complejo,
+ sea considerado desde un punto de vista algebraico, geometrico o incluso filoso-
+ fico. Esta diversidad de teorías referidas a un mismo objeto (matemático)
+ puede inducir la curiosidad de saber cuál es la teoría verdadera, es de-
+ cir, aquella que excluiría a las demás. Y que, de algun modo comprendería
+ a las demás. Comprendería sus virtudes
+ Sin embargo, la matemática no va en pos de una tal teoría excluyente.
+ Lo que aparece es algo distinto: si algun sentido tiene la palabra verdad, es-
+ ta nace en y de la relación de las diferentes teorías. El vínculo entre la
+ diversidad de teorías constituye la realidad del concepto tratado. La co-
+ nectación de las conexiones es, propiamente, la materia matemática. Así,
+ la realidad está dada por este entramado de las diversas materias, aún
+ contradictorias, acerca de un mismo punto.
+         En este y en otros párrafos prosigue una especie de conversación
+         con Léon Brunschvicg cuya delicadeza✳ para manipular ideas
+         matemáticas permite, casi siempre, un giro de más hacia u-
+         na mayor lucidez.
+ A veces, por ejemplo, a fines del siglo pasado se trata de pensar la ma-
+ temática a través o desde ideas madres: así, la idea de cantidad: "la
+ matemática se ocupa de las ideas de cantidad y numero". Pero pronto
+ se cae en la cuenta de que tal pensamiento deja fuera justamente aque-
+ llo que quería explicitar: el acontecer matemático; el cual podría
+ considerarse como la interrelación de teorías o juego de relaciones. Si
+ se define un ente matemático, por ejemplo, el numero 5, la cifra 5 es
+ un objeto al cual le corresponde un cierto concepto. A la idea de que
+ a un objeto corresponde un concepto debe agregarsele la idea de relación:
+ existe un vínculo, no un objeto al cual corresponde un concepto. Esto
+ aparece de manera muy clara en este algoritmo, germen de la no-
+ ción de grupo.
+
+         El pensamiento matemático se encuentra, muchas veces, con
+         objetos aislados que le oponen una cierta resistencia: la idea de
+         un objeto infinitamente pequeño, los numeros irracionales.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                            147

@@ -1,0 +1,60 @@
+
+
+ Prosiguiendo, alcanzamos un cierto contacto espiritual con un técnico en ma-
+ teriales de edificación arquitectónica, de la estructura resistente: el hormigon ar-
+ mado en que él ha estudiado los sistemas de enfierradura y los moldajes, esto es tales
+ lo que permite plasmar las más variadas formas irregulares. El pensamiento de
+ los inventores del hormigon se encuentra con este pensamiento suyo de la flexi-
+ bilidad. Nosotros exponemos unos paneles que hemos realizado con un material
+ no transformado, sino que empleado como recubrimiento: la totora, un vege-
+ tal seco, estable, que hemos de colocarlo de manera que dos vecinos sean lo mas
+ distinto posible entre ellos, faena muy laboriosa. Ahora bien nos decimos
+ que, el trabajo de la totora no alcanza un nivel de elaboración que merez-
+ ca recibir un nombre, es un externo, y el otro externo es eso del hormigon
+ flexible.
+
+
+                hormigon flexible: nombre del inventor. XY
+
+                                                                  (XY)ⁿ
+                totora = 0 ⇒ 0,0001...                            (XY)ⁿ⁺ᵃ... su labor
+
+
+                h f (XY)ⁿ⁺ᵃ
+
+                bisectriz; la edificación en madera, la tabla industrial.
+
+                t 0,0001.
+
+ Se ha identificado. Unívocamente. Y hf(XY)ⁿ⁺ᵃ puede ofrecerse como un ofre-
+ cimiento de la técnica; en cambio t₀ no puede ofrecerse.
+ Volvemos a la interlocución con los matemáticos: nos señalan.
+
+
+                     a b c
+
+
+                                                             Nuestro caso
+                                                             pertenece a una ordenación
+                                                                               mayor
+ ver figura 39 / notas 57,59. advertencia *
+ La ordenación mayor que sigue los caminos... a,b,c...
+ Reparemos que la clasificación de los matemáticos es en tres niveles, como nues-
+ tra exposición. Así, hablando más en generalidad; los morfismos:
+
+
+         maximo        max ) 0 sucesor         max+a     +1 suc.
+
+         medio         med                    med+a-b
+
+         mínimo        min                    min-b
+
+                      0 antecesor               +1 ant
+
+
+  Nos decimos que ( ) no requiere de explicitar antecesor y sucesor;
+  que ) ( requiere explicitarlos
+
+
+
+                                                                                     57 17ª

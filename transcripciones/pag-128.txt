@@ -1,0 +1,60 @@
+
+
+refiere la pura comprehensión (a-
+parte que se trata de sumas)
+Familia: Empaquetamiento con un sen-
+tido, con una Ley                                          Pedagogía
+Entre los elementos de la Familia se produ-                El profesor va estableciendo puntos de
+ce un Vínculo:                                             partida, con antes y después, que no cam-
+             Familiaridad                                  bian y a los que se retorna constantemen-
+                                                           te; él propone una red de vinculaciones
+ Vínculo - Familia       Extensión                         y ubicaciones, presentadas como fami-
+  Familiaridad           Comprehensión                     lias, que constituye una red fundamen-
+                                                           tal. El profesor pide a los alumnos ha-
+20 Figura                                                  cer suyo dicho nivel, el que les permi-
+· El Cuerpo minimal es la Figura del sis-                  tirá acceder a otros, por nuevas vin-
+  tema en Construcción                                     culaciones. Todo lo cual se dá en dos
+· Un teorema en cuanto pieza matemática                    cursos: 1) de Numeros Naturales y Enteros
+  es una Figura                                            con una partida axiomática <Peano>;
+¿Cuando no se conoce un teorema?                           2) de Numeros Racionales y Reales con
+ Cuando se provee, se desfigura                            una partida no-axiomática. Siguién-
+Un teorema se conoce cuando                                do a ello, un conjunto de temas que se los
+                 teorema                                   denomina "Temas libres". ellos presen-
+  · (desfiguración - figura)                               tan una segunda red de vínculos, que
+· Una Familia es una Figura                                busca enriquecer el desarrollo teórico,
+                                                           que es constructivo y dependiente de los
+Curso / Cuerpo minimal / Teorema                           sistemas anteriores N y Z
+ Familia son Figuras Matemáticas
+Otro modo de las figuras:
+Diagramas, graficos, esquemas, bocetos
+
+         TBO - P₅ - PIO - PIOK
+               SP₅ - PIC - PICK
+
+Límite / lo trivial / narrativo / símbolos
+                                                              'a'    Q
+ N Z Q R C H  <ver 70
+               pag                                           temas  a
+                                                             libres Q
+                                                                                            sistemas
+                                                                                            equivalentes
+                                                                                            porque
+                                                                                            parten
+                                                                                            constructivamente
+                                                              'a'    R
+                                                             temas  a
+                                                             libres R
+
+
+
+
+
+
+
+                                         5 algoritmos... A continuación no se tocan.
+                                                             se plantean una preparación
+                                         6 Klein     .... "Campo de estudio."
+                                                             al termino del período
+                                         7 actual
+
+128

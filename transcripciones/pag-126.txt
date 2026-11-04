@@ -1,0 +1,60 @@
+
+
+
+                 10 Ubicación: 1º paso. Vinculación 2 paso
+                    Vinculación se genera en:                                         árbol/
+                                 árbol, tela de araña, red                            tela de araña/
+                    Una virtud                                                        red/
+                    Ramificación, bifurcación, lo multiple
+                    Aparición de ciclos                                               extensión
+
+                 11. No hay ubicación sin vínculo
+                              vínculo       ubicación
+                     Red fundamental de vínculos. Red inicial                                          b
+                     Vínculos: un punto terminal
+                               dos puntos intermedios                                     a
+
+                 12 Reconocer la red fundamental de vínculos
+                     Extender
+                                                                                     vínculo  vínculo
+                 13 Red fundamental de vínculos:                                     puntos a  puntos
+                     cuerpo:        totalidad, sistema orden                                    intermedios
+                     minimalidad: minimo vínculos
+                                      cuerpo minimal 1,2,3,4
+                                                                                       1  2  3  4
+                 14. Ubicación en un principio:                                      gran cuerpo
+                                      punto de partida
+                                   en medio de:
+                                      interior del sistema
+                     Ambos: un entremedio
+                     principio. entre lo narrativo-sistemático
+                     medio          sistemático-asistemático
+
+                 15 Avance: generación del sistema
+                    retroceso: desde el origen-punto de partida
+
+                 16. Vínculo entre objetos del sistema.
+
+
+
+
+
+                                                          17 A medida que el sistema se construye
+Hasta este momento hemos venido re-                          se dá la extensión
+cogiendo este texto conforme a una                         · El sistema al construir se Extiende,
+interpretación nuestra del "aparece";                        este sería su primer modo de Extensión
+ahora proseguimos recogiendolo de                          · Cada vez que se suprime un límite
+manera literal, con sus "avances" y                          el sistema se extiende
+"retrocesos"; pero al par exponiendo lo                    · La extensión exhaustiva dentro de lo
+que nos surge.                                               Finito, por ej.
+                                                          (a,e,i,o,u) presentación Extensiva del
+                                                                     conjunto de vocales
+                                                          (1,2,3,4 ... 998,999,1000)
+                                                                     presentación Extensiva ✳
+                                                           de los primeros 1000 números naturales
+                                                           no nulos.
+                                                           ..
+
+
+
+126

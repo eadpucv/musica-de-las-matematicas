@@ -1,0 +1,60 @@
+
+
+  Simbología
+
+
+  Número
+                                      Sistemas numéricos
+  1 .. neutro
+  2                                   ℕ naturales   .. a/b,  ȧ,  a ≡ b (mod m)
+  3
+  π, e .. pi                          ℤ enteros
+  0     .. aniquilador
+  ∞        infinito                   ℚ racionales
+  ℵ₀, ℵ₁   aleph sub cero
+           aleph sub uno              ℝ reales
+  c        continuo
+                                      ℂ complejos
+
+                                      ℍ cuaterniones
+
+  Lógica y lenguaje             Abreviaturas            Conjuntos
+
+
+  ¬ negación, no                ∵ pero                  ° complemento
+
+  ∨ disyunción, o               ∴ luego                 ∪ unión
+
+  ∧ conjunción, y               Ⅲ tal que               ∩ intersección
+
+  ⇒ implicación                 →← contradicción        ⊂ inclusión
+
+  ⇔ equivalencia                                        ∈ pertenece
+
+  ⊻ exclusión                                           ∉ no pertenece
+
+  ∀ para todo                                           = igualdad
+
+  (∃) existe                                            ≠ diferencia
+
+  ( ),[ ] parentesis                                    △ diferencia simétrica
+
+                                                        • Potencia
+
+                                                        → función
+
+                                                        ≺ finura
+
+                                                        ≼ más fino que
+
+                                                          menos fino que
+                                                         ≡, ≈ equivalencia
+                                                          tan fino como
+
+                                                         ∘ composición
+
+                                                         { } parentesis
+
+                                                         ∅ vacío
+
+54

@@ -1,0 +1,60 @@
+
+ 47 Pensar
+ 48 ver
+ 49 dibujar
+ 50 suspender                            47 pensar
+ 51 antecesor-sucesor                    48 ver
+ 52 enmarcamiento                        49 dibujar                           69
+ 53 clausura                                                               achurar
+ 54 límite                            curia  │ exponer
+ 55 planos
+ 56 consistencia neutra           65     │    66                  dialecto pasado futuro
+ 57 pseudo arbol                           70                    81       84       85
+ 58 juego                               equivalencia
+ 59 anti-juego * advertencia                                               60
+ 60 identidad                                                             identidad
+ 61 producto
+ 62 producción
+ 63 portar                        76             75
+ 64 ocurrencia                  perfección     exactitud           anti-
+ 65 curia                                                          juego       producto
+ 66 exponer                                                                    producción
+ 67 enrarecido
+ 68 homogeneidad
+ 69 achurar                      E                               F
+ 70 equivalencia
+ 71 nacimiento-maduración
+ 72 recapitular
+ 73 habito
+ 74 autonomía
+ 75 exactitud                                 50
+ 76 perfección                             suspender                           77
+ 77 para.
+ 78 anticipar                                                                 para.
+ 79 crisis
+ 80 levedad
+ 81 dialecto                            78 habito                          78
+ 82 elección                                                             anticipar
+ 83 heterogeneo                  71 nacimiento-maduración
+ 84 pasado                                                         autonomía enrarecido
+ 85 futuro                                72
+ 86 resolver-disolverse               recapitular               74               67
+
+                                                                           80
+                                                                          levedad
+                                51           82
+                             antecesor    elección                54            55
+                             sucesor                           límite        planos
+
+
+
+
+                                 G
+                                                                H
+
+
+                                            83
+ II                                        heterogeneo                       (53)
+ espectro                                                                    clausura
+
+                                                                                       51
